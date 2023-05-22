@@ -1,1 +1,1 @@
-# Dr.chatGLM-6B
+# Dr.ChatGLM-6B
