@@ -1,0 +1,12 @@
+pdfminer
+docx2pdf
+pdf2docx
+flask
+flask_cors
+#fitz要在PyMuPDF装之前装好
+fitz
+PyMuPDF==1.19.6
+xlwt
+pandas
+zipfile
+python-docx
